@@ -13,3 +13,4 @@ Add Music Recommender with Spotify API integration
 Implement hybrid recommendation combining content and popularity
 Add Next Word Generator using LSTM neural network
 Train and test next word prediction model
+Add Whatsapp Chat Analyzer with sentiment analysis
