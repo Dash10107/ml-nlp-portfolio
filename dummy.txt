@@ -4,3 +4,4 @@ Implement collaborative filtering for book recommendations
 Add End to End Chatbot with Streamlit UI
 Train and evaluate chatbot intent classifier
 Add Fashion Recommendation notebook with VGG16 feature extraction
+Implement image similarity search for fashion items
