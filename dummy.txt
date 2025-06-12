@@ -10,3 +10,4 @@ Build logistic regression model for IPL match outcome prediction
 Add Movie Recommendation system with NLP-based content filtering
 Implement stemming and vectorization for movie tags
 Add Music Recommender with Spotify API integration
+Implement hybrid recommendation combining content and popularity
