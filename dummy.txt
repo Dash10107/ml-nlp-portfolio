@@ -17,3 +17,4 @@ Add Whatsapp Chat Analyzer with sentiment analysis
 Implement extractive summarization and emoji removal for chat data
 Add YouTube Chaptering notebook with topic modeling
 Implement NMF-based chapter segmentation for video transcripts
+Update README with project descriptions
