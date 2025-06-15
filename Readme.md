@@ -1,8 +1,28 @@
-# 🚀 ML Mega Projects — Real-World AI Solutions
+# 🚀 ML Mega Projects — End-to-End Machine Learning Solutions for Real-World Problems
 
-Welcome to **GenAI Mega Projects** — a curated collection of **end-to-end  Machine Learning,NLP and Data Science projects**. This repository demonstrates **production-grade engineering**, **industry-relevant problem-solving**, and **scalable AI pipelines**. 
+
+Welcome to **ML Mega Projects** — a curated collection of **end-to-end  Machine Learning,NLP and Data Science projects**. This repository demonstrates **production-grade engineering**, **industry-relevant problem-solving**, and **scalable AI pipelines**. 
 
 ---
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-9FBC00?style=for-the-badge&logo=nltk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFDD57?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 
 ## 📂 Table of Contents
 
