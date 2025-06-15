@@ -1,6 +1,6 @@
-# 🚀 GenAI Mega Projects — Real-World AI Solutions
+# 🚀 ML Mega Projects — Real-World AI Solutions
 
-Welcome to **GenAI Mega Projects** — a curated collection of **end-to-end Generative AI, Machine Learning, and Data Science projects**. This repository demonstrates **production-grade engineering**, **industry-relevant problem-solving**, and **scalable AI pipelines**. Whether you're a recruiter evaluating skills, a developer seeking inspiration, or a collaborator scouting talent — you’ll find **battle-tested, reproducible, and extensible AI solutions** here.
+Welcome to **GenAI Mega Projects** — a curated collection of **end-to-end  Machine Learning,NLP and Data Science projects**. This repository demonstrates **production-grade engineering**, **industry-relevant problem-solving**, and **scalable AI pipelines**. 
 
 ---
 
@@ -31,7 +31,7 @@ Each project in this repository is designed with:
 
 ✅ **Production-grade architecture**  
 ✅ **Modular & scalable codebases**  
-✅ **State-of-the-art ML & AI algorithms**  
+✅ **State-of-the-art ML & NLP algorithms**  
 ✅ **Real-world problem statements**  
 ✅ **Well-documented workflows**  
 ✅ **Visualizations, dashboards, and APIs where applicable**
