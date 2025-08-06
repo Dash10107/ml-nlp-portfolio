@@ -1,7 +1,7 @@
-# 🚀 ML Mega Projects — End-to-End Machine Learning Solutions for Real-World Problems
+# 🚀  End-to-End Machine Learning Solutions for Real-World Problems
 
 
-Welcome to **ML Mega Projects** — a curated collection of **end-to-end  Machine Learning,NLP and Data Science projects**. This repository demonstrates **production-grade engineering**, **industry-relevant problem-solving**, and **scalable AI pipelines**. 
+A curated collection of **end-to-end  Machine Learning,NLP and Data Science projects**. This repository demonstrates **production-grade engineering**, **industry-relevant problem-solving**, and **scalable AI pipelines**. 
 
 ---
 ## 🛠️ Tech Stack
