@@ -74,6 +74,7 @@ Each project in this repository is designed with:
 
 ---
 
+
 ## 🔍 Detailed Project Descriptions
 
 ### 📖 Book Recommender
